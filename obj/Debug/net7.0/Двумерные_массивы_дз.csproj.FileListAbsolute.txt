@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Двумерные_массивы_дз\bin\Debug\net7.0\Двумерные_массивы_дз.exe
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Двумерные_массивы_дз\bin\Debug\net7.0\Двумерные_массивы_дз.deps.json
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Двумерные_массивы_дз\bin\Debug\net7.0\Двумерные_массивы_дз.runtimeconfig.json
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Двумерные_массивы_дз\bin\Debug\net7.0\Двумерные_массивы_дз.dll
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Двумерные_массивы_дз\bin\Debug\net7.0\Двумерные_массивы_дз.pdb
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Двумерные_массивы_дз\obj\Debug\net7.0\Двумерные_массивы_дз.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Двумерные_массивы_дз\obj\Debug\net7.0\Двумерные_массивы_дз.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Двумерные_массивы_дз\obj\Debug\net7.0\Двумерные_массивы_дз.AssemblyInfo.cs
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Двумерные_массивы_дз\obj\Debug\net7.0\Двумерные_массивы_дз.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Двумерные_массивы_дз\obj\Debug\net7.0\Двумерные_массивы_дз.dll
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Двумерные_массивы_дз\obj\Debug\net7.0\refint\Двумерные_массивы_дз.dll
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Двумерные_массивы_дз\obj\Debug\net7.0\Двумерные_массивы_дз.pdb
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Двумерные_массивы_дз\obj\Debug\net7.0\Двумерные_массивы_дз.genruntimeconfig.cache
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Двумерные_массивы_дз\obj\Debug\net7.0\ref\Двумерные_массивы_дз.dll
